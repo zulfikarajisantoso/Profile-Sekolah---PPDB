@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Logo SMP Nusantara Bandung">
+  <rect width="64" height="64" rx="14" fill="#155e75" />
+  <path d="M32 14 L48 23 L32 32 L16 23 Z" fill="#fbbf24" />
+  <path d="M21 27 v11 c0 4.4 4.9 8 11 8 s11 -3.6 11 -8 V27 l-11 5.2 Z" fill="#ecfeff" />
+  <circle cx="46" cy="40" r="2.5" fill="#fbbf24" />
+</svg>

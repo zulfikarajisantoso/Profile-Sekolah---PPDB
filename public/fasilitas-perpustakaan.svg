@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="Perpustakaan">
+  <rect width="640" height="360" fill="hsl(24,28%,96%)"/>
+  <rect x="0" y="240" width="640" height="120" fill="hsl(24,22%,88%)"/>
+  <circle cx="520" cy="80" r="46" fill="hsl(24,45%,72%)"/>
+  <rect x="70" y="120" width="180" height="120" rx="8" fill="hsl(24,38%,44%)"/>
+  <rect x="290" y="150" width="150" height="90" rx="8" fill="hsl(24,38%,52%)"/>
+  <text x="320" y="300" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600" fill="hsl(24,40%,22%)" text-anchor="middle">Perpustakaan</text>
+</svg>
